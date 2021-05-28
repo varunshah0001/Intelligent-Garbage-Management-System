@@ -2,7 +2,7 @@
 ### An intelligent system which can help smart cities to tackle garbage disposal issue.
 
 Work load on municipality can be reduced with the help of this CNN based project, user can directly lodge complaint hassle free with their android application.
-1. Idea is to identify images taken by user at their end only, authorities need not to take care whether garbage is actually there or not.
+1. Idea is to identify if the image taken by user contains garbage or not at their end only, authorities need not to take care whether garbage is actually there or not.
 2. This will not only reduce workload of workers of municaplities but also reduce false complaints from the user end.
 3. Dataset is created by fetching images from google, yahoo, duckduckgo (Contains 3090 images)
 
